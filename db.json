@@ -1,33 +1,65 @@
 {
-  "projects": [
+  "apartments": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "country": "Spain",
+      "city": "Madrid",
+      "name": "Marzo Best Offer Madrid PUERTA DEL SOL LM7",
+      "space": "Perfecta ubicación para conocer toda la oferta cultural que ofrece Madrid (Museo del Prado, Museo Thyssen-Bornemisza, Museo Reina Sofía, Palacio Real…) y pasear por la Gran Vía, e incluso ver alguno de los fantásticos espectáculos de sus teatros y cines. Además, está muy cerca del Parque del Retiro, pulmón de la capital, en el cual puede pasar un rato agradable disfrutando de sus terrazas, dando una vuelta en barca por su estanque, tomando el sol, disfrutar los patines o en bicicleta. Piso recientemente reformado y decorado por un prestigioso equipo de interiorismo, cuenta con dos habitaciones cómodas, cocina independiente y baño. La casa es realmente acogedora, la hemos decorado con todo nuestro cariño para que sea como un pequeño paraíso donde nuestros huéspedes puedan relajarse y sentirse como en casa.",
+      "description": "Ubicado en estupenda calle situada en una de las zonas más elegantes de la ciudad, cerca de la Plaza de la Cibeles, uno de los monumentos más importantes de Madrid, y a pasos de la Puerta del Sol, la Plaza Mayor, la Gran Vía, y Retiro Aire Acondicionado recién instalado Perfecta ubicación para conocer toda la oferta cultural que ofrece Madrid (Museo del Prado, Museo Thyssen-Bornemisza, Museo Reina Sofía, Palacio Real…) y pasear por la Gran Vía, e incluso ver alguno de los fantásticos espectáculos de sus teatros y cines. Además, está muy cerca del Parque del Retiro, pulmón de la capital, en el cual puede pasar un rato agradable disfrutando de sus terrazas, dando una vuelta en barca por su estanque, tomando el sol, disfrutar los patines o en bicicleta. Piso recientemente reformado y decorado por un prestigioso equipo de interiorismo, cuenta con dos habitaciones cómodas, cocina independiente y baño. La casa es realmente acogedora, la hemos decorado con todo nuestro cariño para que sea com",
+      "rules": "El apartamento se ha realizado con mucho cariño para que tu estancia en él sea muy agradable ES OBLIGATORIO PRESENTAR DOCUMENTACIÓN OFICIAL DE TODOS LOS OCUPANTES El horario de entrada será desde las 15h a las 21h. A partir de las 21h se cobrará un suplemento de 30€, que se abonará a la llegada a la entrega de las llaves. Entrar antes de las 15h puede conllevar un suplemento El horario de salida será antes de las 11h, si deseas abandonar el apartamento más tarde deberás solicitarlo con antelación y en base a la disponibilidad estaremos encantados de ayudarte. Puede conllevar un suplemento Recuerda que el apartamento debe ser devuelto en las mismas condiciones de orden y limpieza que a tu llegada Ruego que saques la basura todos los días, con especial cuidado en los meses de verano Es importante respetar el número de personas que ocuparán el apartamento, cuyo número nunca debe de sobrepasar el estipulado en la reserva. En caso contrario se pedirá al cliente el desalojo inmediato del apa",
+      "property": "Apartment",
+      "capacity": 6,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "price": 84,
+      "cleaningFee": 50,
+      "img": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/9a1168a0abcb0aca0512010b156ac61e",
+      "__v": 0
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "country": "Spain",
+      "city": "Madrid",
+      "name": "PISO CAVA ALTA-PZA MAYOR/WIFI",
+      "space": "El apartamento se encuentra en el barrio de La Latina, llamado el barrio de los Austrias, donde puede visitar sus alrededores como la Basílica de San Francisco el Grande, el Viaducto, El Rastro, La Pza. Mayor, Pta del Sol, La Iglesia de la Almudena, el Mercado de las Flores en la Pza. Tirso de Molina.También alrededor hay una importante oferta cultural con teatros como el Teatro La Latina, Teatro Calderón en la Pza Jacinto Benavente, Teatro Español en Pza Sta. Ana y Teatro Apolo en la Pza. Tirso de Molina, en el mismo barrio también tienes tiendas, supermecados, farmacias, mercado de la Cebada, etc y puedes ir caminando a todos los puntos turisticos de Madrid y para terminar de relajarte caminar por el Madrid Rio donde puedes alquilar bicicletas, cars para niños y adultos. En el barrio también hay muchos restaurantes de distinta cocina, restaurantes que están en la cava alta, en la cava baja y en la cava de San Miguel donde esta el espectacular mercado de San Miguel. Es un barrio compl",
+      "description": "Piso con dos habitacioned, dos baños, salón-comedor, primera planta con ascensor. Muy cómodo para caminar por muchos lugares céntricos de Madrid a pasos del Rastro, Plaza Mayor, Mercado San Miguel, Puerta del Sol, Barrio la Latina con las calles cava alta y cava baja. El apartamento se encuentra en el barrio de La Latina, llamado el barrio de los Austrias, donde puede visitar sus alrededores como la Basílica de San Francisco el Grande, el Viaducto, El Rastro, La Pza. Mayor, Pta del Sol, La Iglesia de la Almudena, el Mercado de las Flores en la Pza. Tirso de Molina.También alrededor hay una importante oferta cultural con teatros como el Teatro La Latina, Teatro Calderón en la Pza Jacinto Benavente, Teatro Español en Pza Sta. Ana y Teatro Apolo en la Pza. Tirso de Molina, en el mismo barrio también tienes tiendas, supermecados, farmacias, mercado de la Cebada, etc y puedes ir caminando a todos los puntos turisticos de Madrid y para terminar de relajarte caminar por el Madrid Rio donde pu",
+      "rules": "Cuidar el apartamento como si fuera tuyo, no se puede realizar fiestas ni nada que estorbe la vida cotidiana de los vecinos. Si llevas perro por favor decirlo, se aceptaran perros guias, o perros que esten educados y no grandes. Los check in a partir de las 22hrs tienen un suplemento de 20€ que se entregan en el momento de la llegada del apartamento. También tenemos cuna de bebe por 25€ por toda la estancia!!! Los check in se realizarán a partir de las 12 12:00 pm hasta las 02am. Si el apartamento esta disponible podrás llegar a partir de las 09:30am el check in en adelante. Preguntanos antes ;-)",
+      "property": "Apartment",
+      "capacity": 6,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "price": 72,
+      "cleaningFee": 25,
+      "img": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/4d8e612798948e8e58e366d4628bbb98",
+      "__v": 0
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "country": "Spain",
+      "city": "Madrid",
+      "name": "ROOM WITH TOILET AND LIVING,CENTER.",
+      "space": "This is kind of apartament inside of an apartament with terrace. The room is a  big área  with  a  Double room, a living room  and private bathroom.  Is  spacious and light, It sleeps two people and can be enabled for another person with sofa bed.  Bedding and bathroom. Individual heating. The apartment has a large terrace. Internet connection. You can use the kitchen of the mean apartament. The fully equipped kitchen has an oven, fridge and washing machine. Suitable for two people per room,  Cleaning service at the entrance and exit of the room. Possibility of daily cleaning. € 10 day. The floor is a penthouse with four bedrooms and terrace. La Latina occupies a large part of Madrid's oldest, sometimes also known as the Madrid de los Austrias, is preserved in its streets and squares urban organization peculiar characteristic of medieval layout, with spacious squares and narrow streets that follow the old path of the waters. The streets have been present all historical events that took",
+      "description": "This is kind of apartament inside of an apartament with terrace. The room is a  big área  with  a  Double room, a living room  and private bathroom.  Is  spacious and light, It sleeps two people and can be enabled for another person with sofa bed.  Bedding and bathroom. Individual heating. The apartment has a large terrace. Internet connection. You can use the kitchen of the mean apartament. The fully equipped kitchen has an oven, fridge and washing machine. Suitable for two people per room,  Cleaning service at the entrance and exit of the room. Possibility of daily cleaning. € 10 day. The floor is a penthouse with four bedrooms and terrace. La Latina occupies a large part of Madrid's oldest, sometimes also known as the Madrid de los Austrias, is preserved in its streets and squares urban organization peculiar characteristic of medieval layout, with spacious squares and narrow streets that follow the old path of the waters. The streets have been present all historical events that took",
+      "rules": "Las normas de la casa son las de uso común, respeto por los espacios compartidos, y limpieza de todo lo que se utilice en esos espacios. No se puede fumar dentro de la casa, pero si en la terraza. hay que tener cuidado a partir de las once, once y media por los ruidos para respetar a la comunidad. Por lo demás un ambiente relajado y tranquilo.",
+      "property": "Apartment",
+      "capacity": 2,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "price": 45,
+      "cleaningFee": 10,
+      "img": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/773e6f55252d9ccc2f0b489829ea2517",
+      "__v": 0
+    },
+    {
+      "id": 4,
+      "country": "Spain",
+      "city": "Madrid",
+      "name": "NUEVOS MINISTERIOS Friendly Rentals",
+      "space": "An excellent combination of style and comfort is the main characteristic of this very well equipped and furnished apartment which can host 4 people. The building where the apartment is placed is safe; it has 2 concierges and 3 lifts. The apartment is on the third floor, it is interior but really bright because it has big windows and a small balcony with views to a massive patio, probably not great views of the city but very calm and quiet. Without a doubt it will meet your expectations. The apartment has 1 bedroom, a living room and one bathroom. The kitchen is open plan, spacious and comfortable; it has dishwasher, washing machine, microwave and vitroceramic. Next to the kitchen there is a nice and practical wooden dining table with 4 chairs and a very stylish glass and wood chest of drawers containing all the kitchen utensils. Next to the window there is a large and comfortable double sofa bed, also a low table, a flat screen T.V. and a DVD. Two side tables and nice lamps create a wa",
+      "description": "This fabulous apartment is the ideal option for those coming to Madrid on a business trip since its location is very close to the city´s financial area, Orense and surrounding areas, well known for hosting offices for the most prestigious companies An excellent combination of style and comfort is the main characteristic of this very well equipped and furnished apartment which can host 4 people. The building where the apartment is placed is safe; it has 2 concierges and 3 lifts. The apartment is on the third floor, it is interior but really bright because it has big windows and a small balcony with views to a massive patio, probably not great views of the city but very calm and quiet. Without a doubt it will meet your expectations. The apartment has 1 bedroom, a living room and one bathroom. The kitchen is open plan, spacious and comfortable; it has dishwasher, washing machine, microwave and vitroceramic. Next to the kitchen there is a nice and practical wooden dining table with 4 chair",
+      "rules": "Checkin is done at our office. The address: Calle San Marcos 9 28004 MADRID Our office hours are from 10.00 to 21.00. Late checkin (after 21.00 hours) is done in the apartment and has a surcharge of 30 euros. Guests arriving after office hours have to call ahead to inform about your arrival. No parties allowed at any part of the accommodation. Noises and volume must be controlled from 22:00 to 10:00 because all the accommodations are placed in normal neighborhoods so the rest of the people could be bothered. There are not more beds than the announced ones. The cribs are only available under petition. Smoking is not allowed. Pets are not allowed. We hope guests are polite and know how to behave. When checking out, please leave the keys on the table and take out the rubbish, if ..."
     }
   ]
+  
 }
