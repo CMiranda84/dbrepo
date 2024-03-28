@@ -36,9 +36,9 @@
           "rgba(211, 189, 164, 1.00)",
           "rgba(188, 159, 128, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/9a1168a0abcb0aca0512010b156ac61e"
-      }
+        "height": 480
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/9a1168a0abcb0aca0512010b156ac61e"
     },
     {
       "id": "1717189",
@@ -76,9 +76,9 @@
           "rgba(201, 192, 185, 1.00)",
           "rgba(167, 126, 121, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/4d8e612798948e8e58e366d4628bbb98"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/4d8e612798948e8e58e366d4628bbb98"
     },
     {
       "id": "1105892",
@@ -116,9 +116,9 @@
           "rgba(211, 211, 213, 1.00)",
           "rgba(207, 206, 207, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/773e6f55252d9ccc2f0b489829ea2517"
-      }
+        "height": 480      
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/773e6f55252d9ccc2f0b489829ea2517"
     },
     {
       "id": "16972070",
@@ -156,9 +156,9 @@
           "rgba(166, 155, 144, 1.00)",
           "rgba(141, 113, 85, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/2130bb256570f0aad1382b4eb84bad81"
-      }
+        "height": 480
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/2130bb256570f0aad1382b4eb84bad81"
     },
     {
       "id": "13407381",
@@ -196,9 +196,9 @@
           "rgba(148, 130, 76, 1.00)",
           "rgba(195, 195, 198, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/a870da1133e8618f259aaa042288dc51"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/a870da1133e8618f259aaa042288dc51"
     },
     {
       "id": 4,
@@ -255,9 +255,9 @@
           "rgba(188, 163, 149, 1.00)",
           "rgba(149, 102, 70, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/4a4d51c58f6dacda6021a6741d640a16"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/4a4d51c58f6dacda6021a6741d640a16"
     },
     {
       "id": "5451147",
@@ -295,9 +295,9 @@
           "rgba(161, 99, 89, 1.00)",
           "rgba(160, 119, 112, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/39db1dd1898f920f97699d7da6a09ba7"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/39db1dd1898f920f97699d7da6a09ba7"
     },
     {
       "id": "2156319",
@@ -335,9 +335,9 @@
           "rgba(184, 174, 165, 1.00)",
           "rgba(118, 135, 144, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/660be0f5ebe252239ae2d39ee4fd2a08"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/660be0f5ebe252239ae2d39ee4fd2a08"
     },
     {
       "id": "904769",
@@ -375,9 +375,9 @@
           "rgba(201, 198, 198, 1.00)",
           "rgba(129, 112, 102, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/b5c29c61928b29b051791b3db2d03590"
-      }
+        "height": 480
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/b5c29c61928b29b051791b3db2d03590"
     },
     {
       "id": "2156343",
@@ -415,9 +415,9 @@
           "rgba(147, 137, 122, 1.00)",
           "rgba(169, 139, 106, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/710a4d2976c9e5563b98ddc2796c4fa8"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/710a4d2976c9e5563b98ddc2796c4fa8"
     },
     {
       "id": "7703640",
@@ -455,9 +455,9 @@
           "rgba(202, 165, 142, 1.00)",
           "rgba(187, 129, 104, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ca09dca0264714f402ec33c0e81a8f3f"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ca09dca0264714f402ec33c0e81a8f3f"
     },
     {
       "id": "16972612",
@@ -495,9 +495,9 @@
           "rgba(197, 183, 166, 1.00)",
           "rgba(183, 168, 156, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/06405fe92b9cc003b2d8c90987c56315"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/06405fe92b9cc003b2d8c90987c56315"
     },
     {
       "id": "9330699",
@@ -535,9 +535,9 @@
           "rgba(224, 218, 216, 1.00)",
           "rgba(181, 166, 164, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ee810ae4addecc589ec846b07716dd62"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ee810ae4addecc589ec846b07716dd62"
     },
     {
       "id": "1617992",
@@ -575,9 +575,9 @@
           "rgba(194, 183, 169, 1.00)",
           "rgba(178, 140, 105, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/894057fc38d2f2f27078e9a268222a2c"
-      }
+        "height": 480
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/894057fc38d2f2f27078e9a268222a2c"
     },
     {
       "id": "11409396",
@@ -615,9 +615,9 @@
           "rgba(213, 194, 184, 1.00)",
           "rgba(156, 126, 109, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/e2e70ae439bb60db2323d0cffa1473ca"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/e2e70ae439bb60db2323d0cffa1473ca"
     },
     {
       "id": "131487",
@@ -655,9 +655,9 @@
           "rgba(136, 129, 130, 1.00)",
           "rgba(113, 91, 80, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/1f7675d395a3b634554b175b8ef31134"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/1f7675d395a3b634554b175b8ef31134"
     },
     {
       "id": "13703585",
@@ -695,9 +695,9 @@
           "rgba(177, 167, 155, 1.00)",
           "rgba(99, 76, 84, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/8be67a4857f791563f75c8d6c49ae3b3"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/8be67a4857f791563f75c8d6c49ae3b3"
     },
     {
       "id": "11453841",
@@ -735,9 +735,9 @@
           "rgba(149, 145, 137, 1.00)",
           "rgba(124, 110, 90, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/b65016a0b59677c6659ccfaf0eb427d1"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/b65016a0b59677c6659ccfaf0eb427d1"
     },
     {
       "id": "12394155",
@@ -775,9 +775,9 @@
           "rgba(220, 192, 156, 1.00)",
           "rgba(154, 122, 102, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/02b847ba4b33ee0566a6e84cae674ef2"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/02b847ba4b33ee0566a6e84cae674ef2"
     },
     {
       "id": "14864550",
@@ -815,9 +815,9 @@
           "rgba(121, 106, 138, 1.00)",
           "rgba(143, 56, 132, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/e93ec91324c57490e56f08cfe82a02cc"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/e93ec91324c57490e56f08cfe82a02cc"
     },
     {
       "id": "8493266",
@@ -855,9 +855,9 @@
           "rgba(156, 139, 125, 1.00)",
           "rgba(103, 84, 84, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/a9260a3a6d5fe0fcc844f54bc87da076"
-      }
+        "height": 480
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/a9260a3a6d5fe0fcc844f54bc87da076"
     },
     {
       "id": "921911",
@@ -895,9 +895,9 @@
           "rgba(171, 164, 152, 1.00)",
           "rgba(140, 130, 124, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/c71af2075d55553f4fe5f360310cc463"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/c71af2075d55553f4fe5f360310cc463"
     },
     {
       "id": "3076276",
@@ -935,9 +935,9 @@
           "rgba(185, 179, 182, 1.00)",
           "rgba(159, 145, 140, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/5e0c591050abf333a641d50a397e9889"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/5e0c591050abf333a641d50a397e9889"
     },
     {
       "id": "330030",
@@ -975,9 +975,9 @@
           "rgba(133, 120, 106, 1.00)",
           "rgba(113, 95, 85, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/d1e9eeb4ff05e2fba24c3a62e083f627"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/d1e9eeb4ff05e2fba24c3a62e083f627"
     },
     {
       "id": "574737",
@@ -1015,9 +1015,9 @@
           "rgba(190, 138, 123, 1.00)",
           "rgba(135, 105, 104, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/8d6eabea586a964ca7b192ba05e9d1a8"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/8d6eabea586a964ca7b192ba05e9d1a8"
     },
     {
       "id": "14797068",
@@ -1055,9 +1055,9 @@
           "rgba(169, 162, 160, 1.00)",
           "rgba(164, 142, 121, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ebc8d7acddef0bdedfd5f40b3cb57813"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ebc8d7acddef0bdedfd5f40b3cb57813"
     },
     {
       "id": "6844262",
@@ -1095,9 +1095,9 @@
           "rgba(180, 170, 166, 1.00)",
           "rgba(180, 163, 153, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/171b4cd6afa74ce6dd515b22e22b0996"
-      }
+        "height": 480
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/171b4cd6afa74ce6dd515b22e22b0996"
     },
     {
       "id": "12393713",
@@ -1135,9 +1135,9 @@
           "rgba(181, 167, 154, 1.00)",
           "rgba(174, 134, 96, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/5772cb64f54fdc82e9aa5e655e8d9237"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/5772cb64f54fdc82e9aa5e655e8d9237"
     },
     {
       "id": "4550936",
@@ -1175,9 +1175,9 @@
           "rgba(124, 111, 93, 1.00)",
           "rgba(97, 87, 70, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/2384d3e00e5e2a488347f603d5a1f02e"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/2384d3e00e5e2a488347f603d5a1f02e"
     },
     {
       "id": "1192656",
@@ -1215,9 +1215,9 @@
           "rgba(95, 87, 80, 1.00)",
           "rgba(139, 133, 127, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/21e488ab6f83b3efe8d4bd0ef20f608d"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/21e488ab6f83b3efe8d4bd0ef20f608d"
     },
     {
       "id": "955786",
@@ -1255,9 +1255,9 @@
           "rgba(199, 196, 196, 1.00)",
           "rgba(146, 134, 127, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/6ea6af4fa8ae9c8eb3dbc8a974e5c03e"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/6ea6af4fa8ae9c8eb3dbc8a974e5c03e"
     },
     {
       "id": "12984244",
@@ -1295,9 +1295,9 @@
           "rgba(156, 152, 145, 1.00)",
           "rgba(119, 94, 73, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/3fb25be4bd503916b90da7fee7bcab94"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/3fb25be4bd503916b90da7fee7bcab94"
     },
     {
       "id": "12397412",
@@ -1335,9 +1335,9 @@
           "rgba(177, 163, 153, 1.00)",
           "rgba(167, 164, 160, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ce6ac50dfd1038d486d9e9a5551dc91b"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ce6ac50dfd1038d486d9e9a5551dc91b"
     },
     {
       "id": "4855207",
@@ -1375,9 +1375,9 @@
           "rgba(208, 186, 167, 1.00)",
           "rgba(207, 160, 119, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/aea4fc81f086169e7482e59bf0ecabdd"
-      }
+        "height": 480
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/aea4fc81f086169e7482e59bf0ecabdd"
     },
     {
       "id": "14798131",
@@ -1415,9 +1415,9 @@
           "rgba(121, 106, 138, 1.00)",
           "rgba(143, 56, 132, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/639e7f4f3b617a13f55aa0379a25e120"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/639e7f4f3b617a13f55aa0379a25e120"
     },
     {
       "id": "11453590",
@@ -1455,9 +1455,9 @@
           "rgba(142, 129, 122, 1.00)",
           "rgba(93, 59, 56, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/17fc31471afe296217e9e03bd91afa15"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/17fc31471afe296217e9e03bd91afa15"
     },
     {
       "id": "12100577",
@@ -1495,9 +1495,9 @@
           "rgba(179, 170, 155, 1.00)",
           "rgba(165, 154, 139, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/6139921654957f2030ee213e0a06420d"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/6139921654957f2030ee213e0a06420d"
     },
     {
       "id": "6634783",
@@ -1535,9 +1535,9 @@
           "rgba(203, 195, 186, 1.00)",
           "rgba(197, 188, 183, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/21562e8ef55c9c7f74ebd88b11ddbf33"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/21562e8ef55c9c7f74ebd88b11ddbf33"
     },
     {
       "id": "847662",
@@ -1575,9 +1575,9 @@
           "rgba(191, 139, 123, 1.00)",
           "rgba(135, 106, 104, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/4b61072a7c6f3ee0dba8c36d4a71e155"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/4b61072a7c6f3ee0dba8c36d4a71e155"
     },
     {
       "id": "7515788",
@@ -1615,9 +1615,9 @@
           "rgba(159, 175, 192, 1.00)",
           "rgba(189, 185, 177, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ad4bd6d3fd766c7c921c8c3e61fcaba5"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/ad4bd6d3fd766c7c921c8c3e61fcaba5"
     },
     {
       "id": "5798309",
@@ -1655,9 +1655,9 @@
           "rgba(197, 186, 174, 1.00)",
           "rgba(152, 112, 78, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/3957eee0b1cab3ac869757e4f5dc810e"
-      }
+        "height": 480
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/3957eee0b1cab3ac869757e4f5dc810e"
     },
     {
       "id": "8500219",
@@ -1695,9 +1695,9 @@
           "rgba(190, 186, 186, 1.00)",
           "rgba(110, 88, 62, 1.00)"
         ],
-        "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/37462c3936b961908ab990c85a9eec29"
-      }
+        "height": 480
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/37462c3936b961908ab990c85a9eec29"
     },
     {
       "id": "248983",
@@ -1735,9 +1735,9 @@
           "rgba(124, 117, 107, 1.00)",
           "rgba(92, 72, 56, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/03e71fb54409c04fb9f1536af09e6737"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/03e71fb54409c04fb9f1536af09e6737"
     },
     {
       "id": "11637716",
@@ -1775,9 +1775,10 @@
           "rgba(214, 204, 203, 1.00)",
           "rgba(202, 128, 121, 1.00)"
         ],
-        "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/764cd525cf3f6f9b9c6aaa2288ce2942"
-      }
+        "height": 426
+      },
+      "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/764cd525cf3f6f9b9c6aaa2288ce2942"
+      
     }
   ]
 }
