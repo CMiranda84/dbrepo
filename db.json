@@ -1,4 +1,10 @@
 {
+  "favorites": [
+    {
+      "id": 1,
+      "propertyId": "6221624"
+    }
+  ],
   "properties": [
     {
       "id": "6221624",
